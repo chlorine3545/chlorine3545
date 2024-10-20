@@ -21,7 +21,7 @@
 > 
 > ~~Why not make it more splendid? For the big shots, a splendid `README` is the icing on the cake, but for me, it would just be a case of gilding the rusty.~~
 
-**Hello, I'm Chlorine from Tsinghua University (Beijing, China). You can call me Xiaolü (Little Chlorine), Chlorinya, or any friendly variation.**
+**Hello, I'm Chlorine from Tsinghua University (Beijing, China). You can call me Xiaolü (Little Chlorine), Chlorinechan, or any friendly variation.**
 
 I am still a computer noob, but I hope to become an excellent open source developer through diligent study and continuous practice.
 
