@@ -1,4 +1,4 @@
-# 🇨🇳 简体中文
+## 🇨🇳 简体中文
 
 > [!tip]
 > 下面是我并不华丽的自我介绍。
@@ -14,7 +14,7 @@
 > [!important]
 > 为往圣继绝学！
 
-# 🇬🇧 English
+## 🇬🇧 English
 
 > [!tip]
 > Below is my humble self-introduction.
@@ -30,7 +30,7 @@ If what I've shared here is helpful to you, a little star would make my day! Fee
 > [!important]
 > Carry Forward the Legacy of Open Wisdom!
 
-# 🇪🇸 Español
+## 🇪🇸 Español
 
 > [!tip]
 > A continuación, mi modesta presentación.
@@ -45,8 +45,3 @@ Si lo que comparto aquí te resulta útil, ¡una estrellita me alegraría el dí
 
 > [!important]
 > ¡Continuemos el legado del conocimiento abierto!
-
-<!---
-yoghurtlee-thu/yoghurtlee-thu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
