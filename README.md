@@ -1,7 +1,7 @@
 ## 🇨🇳 简体中文
 
 > [!tip]
-> 出于个人观念，我正在迁移到 Codeberg 和 自托管 Forgejo。FOSS 万岁！
+> 出于个人观念，我已经将主要开发活动迁移到 Codeberg 和 自托管 Forgejo，GitHub 主要作为镜像和工作流平台。FOSS 万岁！
 
 **你好，我是 Chlorine。你可以叫我小氯，或者这个名字的任何友好的变体。**
 
@@ -15,7 +15,7 @@
 ## 🇬🇧 English
 
 > [!tip]
-> Driven by convictions, I'm shifting to Codeberg & self-hosted Forgejo. Long Live FOSS!
+> Driven by convictions, I have migrated my main development activities to Codeberg and a self-hosted Forgejo instance. GitHub is mainly used as a mirror and workflow platform. Long live FOSS!
 
 **Hello, I'm Chlorine. You can call me Xiaolü (Little Chlorine), Chlorinechan, or any friendly variation.**
 
@@ -29,7 +29,7 @@ If what I've shared here is helpful to you, a little star would make my day! Fee
 ## 🇪🇸 Español
 
 > [!tip]
-> Motivado por mis convicciones, me traslado a Codeberg y Forgejo autoalojado. ¡Viva FOSS!
+> Por convicciones personales, he migrado mis principales actividades de desarrollo a Codeberg y a una instancia autohospedada de Forgejo, utilizando GitHub principalmente como una plataforma de espejo y flujos de trabajo. ¡Viva FOSS!
 
 **Hola, soy Chlorine, que significa "cloro" en español. Puedes llamarme simplemente Chlorine, Clori, o cualquier otra variación amistosa.**
 
