@@ -5,3 +5,7 @@ Driven by convictions, I have migrated my main development activities to [Codebe
 
 
 Por convicciones personales, he migrado mis principales actividades de desarrollo a [Codeberg](https://codeberg.org/chlorine) y a una [instancia](https://chlor.dev/chlorine) autoalojada de Forgejo. GitHub lo utilizo principalmente como espejo y plataforma de flujos de trabajo, así como para colaborar y comunicarme con la comunidad de código abierto de aquí. ¡Viva el FOSS!
+
+---
+
+Temporary: This sentence is used to verify my ownership of this GitHub acct on 2025-06-06, to Internet Archive.
